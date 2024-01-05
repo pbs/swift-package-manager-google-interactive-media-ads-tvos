@@ -17,7 +17,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "GoogleInteractiveMediaAds",
+  name: "GoogleInteractiveMediaAds-tvOS",
   platforms: [.tvOS(.v11)],
   products: [
     .library(
